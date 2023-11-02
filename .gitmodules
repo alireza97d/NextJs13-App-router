@@ -1,3 +1,6 @@
 [submodule "Todo-List-App"]
 	path = Todo-List-App
 	url = https://github.com/alireza97d/Todo-List-App.git
+[submodule "Ecommerce-Website"]
+	path = Ecommerce-Website
+	url = https://github.com/alireza97d/Ecommerce-Website.git
